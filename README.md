@@ -25,6 +25,7 @@ You will often encounter an unexpected challenge or two when learning a new tech
 3. Rerun the unit test AreaTest.java. Look for a green "OK" next to each test.
 4. If (unit tests do not pass) goto step 2.
 
+
 ### Submit your asssignment.
 1. Commit your changes: Select the hw0 module, right click, and select Git -> Commit Directory.
 2. You should see all the source files you changed (which is only Area.java) with a checkmark in the popup.
